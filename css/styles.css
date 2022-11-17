@@ -48,11 +48,12 @@ a{
         margin: -1px;
         border: 0;
         padding: 0;
-    
-        white-space: nowrap;
+     white-space: nowrap;
         clip-path: inset(100%);
         clip: rect(0 0 0 0);
         overflow: hidden;
+        outline: 0;
+            outline-offset: 0;
 }
 /* ----------Header---------- */
 
